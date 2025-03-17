@@ -4,7 +4,7 @@ An analysis of transportation and accessibile services in Fresno, California.
 
 | Project                                                                 |                                                          |
 |-------------------------------------------------------------------------|----------------------------------------------------------|
-| <p style="text-align:center;">[View My StoryMap](https://storymaps.arcgis.com/stories/7751a3e5091644a2a9d168613c3a2e34)</p>        |
+| **StoryMap** | [View My StoryMap](https://storymaps.arcgis.com/stories/7751a3e5091644a2a9d168613c3a2e34)                           |
 
 ## Attributions
 
