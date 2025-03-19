@@ -30,6 +30,11 @@ The purpose of this project is to identify core issues regarding Fresno's transp
 | California State Geoportal | [https://gis.data.ca.gov/](https://gis.data.ca.gov/)
 | General Transit Feed Specification Reference | https://gtfs.org/documentation/schedule/reference/ 
 
+## Census API Key
+```bash
+api_key = 'Enter API Key Here'
+```
+
 
 ## License
 All project content is licensed under a Creative Commons license. For more information, refer to the License text file in the repository.
